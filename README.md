@@ -5,8 +5,8 @@
 - 状态 / Status: 开源实践版 / Open-source Practice Version
 - 维护组织 / Maintained by: SONGVERSE Working Group
 - Governance Documents / 标准治理文件
-  - [NAME-POLICY.md.txt](./NAME-POLICY.md.txt)
-  - [COMPLIANCE-CLAIMS.md.txt](./COMPLIANCE-CLAIMS.md.txt)
+  - [NAME-POLICY.md](./NAME-POLICY.md)
+  - [COMPLIANCE-CLAIMS.md](./COMPLIANCE-CLAIMS.md)
 - 发布源 / Canonical Source: 本 GitHub 仓库为本标准的权威发布源（canonical source） / This GitHub repository is the canonical publication source of the standard.
 - 许可 / License: TBD（建议在后续版本明确选择并添加 `LICENSE` 文件） / TBD (a `LICENSE` file is recommended in a future update)
 
