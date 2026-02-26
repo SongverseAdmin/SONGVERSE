@@ -1,4 +1,4 @@
-# Compliance Claims Policy / 合规宣称规则
+# SONGVERSE Name Policy / 名称使用政策
 Version: Draft v0.1  
 Maintained by: SONGVERSE Working Group  
 Last updated: 2026-02-25
@@ -8,125 +8,92 @@ Last updated: 2026-02-25
 ## 1. Purpose / 目的
 
 **中文：**  
-本文件用于规范外部机构/个人在对外宣传、商业材料或项目说明中使用“兼容/符合 SONGVERSE 标准”相关措辞的条件、口径与最低证据要求，降低误导性宣传与冒用风险。
+本政策用于规范“SONGVERSE”名称在行业交流、引用与实施中的使用方式，避免公众误认、虚假背书与混淆性宣传，确保本标准保持中立、可引用、可追溯。
 
 **English:**  
-This document defines conditions, wording, and minimum evidence requirements for using “Compatible with / Compliant with SONGVERSE” claims in public or commercial materials, reducing misuse and misleading marketing.
+This policy governs the use of the name "SONGVERSE" in referencing and implementing the standard, to prevent public confusion, false endorsement, and misleading claims, while preserving neutrality and traceability.
 
 ---
 
-## 2. Key Terms / 关键术语
+## 2. Definition / 定义
 
-- **Compatible（兼容）**：采用了本标准的部分模块或方法，但存在差异或未覆盖全部要求。  
-  **Compatible**: Implements parts of the Standard, with deviations or incomplete coverage.
+**中文：**  
+“SONGVERSE”在本仓库中指代由 SONGVERSE Working Group 维护的开源标准与配套文档集合（以下简称“本标准”），属于描述性名称，用于识别该规范体系。
 
-- **Compliant（符合）**：满足本标准所定义的必选要求，并可提供合理范围内的自证材料。  
-  **Compliant**: Meets the required (mandatory) requirements and can provide reasonable evidence.
-
-- **Self-declared（自声明）**：由实施方自行声明，并不等于 Working Group 的认证、审计或背书。  
-  **Self-declared**: Claimed by the implementer; it is not certification/audit/endorsement by the Working Group.
+**English:**  
+"SONGVERSE" refers to the open standard and related documentation maintained by the SONGVERSE Working Group ("the Standard"). It is a descriptive name used to identify this specification set.
 
 ---
 
-## 3. Allowed Claims / 允许使用的宣称
+## 3. Permitted Uses / 允许使用的场景
 
-### 3.1 “Compatible with SONGVERSE” / “兼容 SONGVERSE”
-**中文：**允许在满足以下条件时使用：
-1. 明确标注采用范围（例如采用了 PREPARE + DISTRIBUTE 模块）；  
-2. 公开披露与标准的主要差异（差异清单或对照说明）；  
-3. 不暗示获得 Working Group 认证或授权。
-
-**English:** Allowed if:
-1. Scope of adoption is stated (e.g., PREPARE + DISTRIBUTE only);
-2. Major deviations are disclosed (list or mapping);
-3. No endorsement/certification by the Working Group is implied.
-
-### 3.2 “Compliant with SONGVERSE” / “符合 SONGVERSE 标准”
-**中文：**允许在满足以下条件时使用：
-1. 对照本标准要求完成内部审计，并保留记录；  
-2. 可在合理范围内提供自证材料（见第 5 节）；  
-3. 使用指定声明句式（见第 4 节）；  
-4. 不使用“官方认证/官方授权/唯一指定”等易误导措辞（除非本仓库另有公开说明）。
-
-**English:** Allowed if:
-1. An internal audit against the Standard is performed and recorded;
-2. Evidence can be provided upon reasonable request (see Section 5);
-3. The required statement template is used (Section 4);
-4. No misleading “official certification/authorization/sole designated” language is used unless explicitly stated here.
-
----
-
-## 4. Required Statement Templates / 指定声明句式（必须使用）
-
-### 4.1 Compatible statement / 兼容声明
-**中文模板：**  
-> 我们的流程/服务与 SONGVERSE Standard vX.Y **兼容（Compatible）**，已采用其中的【模块/范围】；与原标准的差异见：【链接/说明】。本声明为自声明，不构成 SONGVERSE Working Group 的认证或背书。
-
-**English template:**  
-> Our workflow/service is **Compatible with** SONGVERSE Standard vX.Y and implements the following scope: [modules/scope]. Deviations from the Standard are documented here: [link]. This is a self-declared claim and does not imply certification or endorsement by the SONGVERSE Working Group.
-
-### 4.2 Compliant statement / 符合声明
-**中文模板：**  
-> 我们基于本仓库发布的 SONGVERSE Standard vX.Y 要求完成内部对照审计后，自声明**符合（Compliant）**该版本标准。本声明不构成 SONGVERSE Working Group 的认证、审计结论或背书。
-
-**English template:**  
-> Following an internal audit against the requirements of SONGVERSE Standard vX.Y published in this repository, we self-declare that we are **Compliant** with that version. This claim does not constitute certification, audit, or endorsement by the SONGVERSE Working Group.
-
----
-
-## 5. Minimum Evidence / 最低自证材料（建议清单）
-
-> **中文：**以下为建议的最低证据，用于支撑合规宣称。具体内容可在不泄露商业机密的前提下提供摘要或脱敏版本。  
-> **English:** The following evidence is recommended to support compliance claims. Provide redacted/summarized versions if needed.
-
-- 发行包与元数据规范（示例/模板）  
-  Release package and metadata spec (sample/template)
-- 上线与版本记录（截图/后台记录/链接集合）  
-  Release evidence and version logs (screenshots/dashboard records/links)
-- 推广排期与执行记录（示例）  
-  Promotion calendar and execution records (sample)
-- 数据监测报表口径说明（示例）  
-  Monitoring report methodology (sample)
-- 对账与结算口径（模板/样例）  
-  Revenue reconciliation templates/samples
-- 变更记录（封面/音源/文案/投放素材版本）  
-  Change logs (cover/audio/copy/ads creative versions)
-
----
-
-## 6. Prohibited Claims / 禁止宣称
+在满足“真实、准确、可追溯”的前提下，任何个人或组织**可以**：
 
 **中文：**
-- 使用“官方认证/官方授权/唯一指定/总部/官方合作伙伴”等未经公开授予的表述；  
-- 以本标准名义进行虚假背书或误导性宣传；  
-- 宣称或暗示“保播放/保榜/保收益/保签约”等结果；  
-- 将“符合 SONGVERSE 标准”等同于 Working Group 的审计结论。
+- 在文章、研究、教学、演讲中引用本标准，并标注来源链接与版本号；
+- 在项目文档中声明“参考/基于 SONGVERSE Standard vX.Y”，并提供仓库链接；
+- 在对外材料中说明采用了本标准的部分流程模块（建议同时披露差异或范围）；
+- 进行翻译、摘要、二次整理或提出修订建议（需保留原始署名与版本信息，并标注修改内容）。
 
 **English:**
-- Using “official certification/authorization/sole designated/headquarters/official partner” without explicit public grant;
-- Any misleading endorsement or fraudulent compliance claims;
-- Guaranteeing outcomes (streams, charts, revenue, signings, etc.);
-- Treating “Compliant” as an audit conclusion by the Working Group.
+- Reference the Standard in articles, research, education, and talks with source link and version;
+- State “referencing/based on SONGVERSE Standard vX.Y” in project documentation with a repository link;
+- Describe adoption of parts of the workflow modules (scope and deviations recommended);
+- Translate, summarize, or propose revisions with proper attribution, versioning, and change notes.
 
 ---
 
-## 7. Challenge & Correction / 质疑与更正机制
+## 4. Prohibited Uses / 禁止使用的场景
+
+任何个人或组织**不得**：
 
 **中文：**
-- 若对某机构的合规宣称存在合理质疑，可在 GitHub Issues 提出并附证据链接；  
-- Working Group 可要求宣称方澄清范围、补充证据或更正措辞；  
-- 对拒不更正的误导性宣称，Working Group 可公开记录处理结论。
+1. **虚假背书**：暗示或声称获得 SONGVERSE Working Group 的“官方认证/官方授权/独家合作/唯一指定”等背书，除非本仓库公开明确授予；  
+2. **混淆性命名**：使用可能导致公众误认的名称或身份，例如：  
+   - “SONGVERSE Official / 官方 / 总部 / 中国区官方 / 全球总部 / 指定代理”等；  
+3. **商标化或主品牌化使用**：将“SONGVERSE”作为商业机构主品牌、产品主名称、服务商名称或合同主体名称进行突出展示（除非获得明确书面许可）；  
+4. **误导性宣传**：将本标准与“保证播放量/保榜/保收益/保签约”等承诺性结果绑定；  
+5. **损害声誉**：以侮辱、诽谤、恶意歪曲等方式损害本标准或本仓库的公信力。
 
 **English:**
-- If there is a reasonable concern about a compliance claim, open a GitHub Issue with evidence;
-- The Working Group may request clarification, additional evidence, or corrected wording;
-- Persistent misleading claims may be publicly documented.
+1. **False endorsement**: Claim or imply “official certification/authorization/exclusive partnership/sole designation” by the Working Group unless explicitly granted in this repository;  
+2. **Confusing naming**: Use names/identities likely to mislead the public, e.g., “SONGVERSE Official/Headquarters/Official China Team/Sole Agent”;  
+3. **Brand/trademark-style use**: Use “SONGVERSE” as a primary commercial brand name, product name, service provider name, or contracting entity name (unless explicitly permitted in writing);  
+4. **Misleading marketing**: Associate the Standard with guaranteed outcomes (streams, charts, revenue, signings, etc.);  
+5. **Reputational harm**: Defame or maliciously misrepresent the Standard or repository.
 
 ---
 
-## 8. Updates / 更新
+## 5. Attribution Requirements / 引用署名要求
 
-**中文：**本规则将随标准版本迭代更新，以本仓库最新发布为准。  
-**English:** This policy will evolve with the Standard; the latest published version in this repository prevails.
+**中文：**
+- 引用本标准应包含：名称 + 版本号 + 仓库链接；  
+- 若对本标准文本进行改写/节选/翻译，应标注“修改/节选/翻译说明”与变更范围。
+
+**English:**
+- References should include: name + version + repository link;  
+- If you modify/excerpt/translate, include change notes and scope.
+
+---
+
+## 6. Reporting & Response / 违规举报与处置
+
+**中文：**
+- 若发现疑似冒用、虚假背书或混淆性宣传，请在 GitHub Issues 提交报告（建议附截图/链接/时间）。  
+- Working Group 可要求相关方更正表述、移除误导内容，并在必要时公开记录处理结果。
+
+**English:**
+- To report misuse, open a GitHub Issue with evidence (links/screenshots/timestamps).  
+- The Working Group may request correction/removal and may publish outcomes when necessary.
+
+---
+
+## 7. Reservation of Rights / 权利保留
+
+**中文：**  
+本政策不构成对任何商标权或其他权利的放弃。Working Group 保留对本政策的解释与更新权。
+
+**English:**  
+Nothing here waives any rights. The Working Group reserves the right to interpret and update this policy.
 
 ---
