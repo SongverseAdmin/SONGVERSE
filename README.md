@@ -6,8 +6,8 @@
 **发布源 / Canonical Source:** 本 GitHub 仓库为本标准的权威发布源  
 **许可 / License:** 待定（建议未来添加 LICENSE 文件）
 
-大风云扬 是一个面向中国音乐内容“全球发行、跨文化推广、数据与流程规范”的开放式行业参考框架。  
-大风云扬 为文档体系名称，不代表商标、企业、组织或任何法律主体。
+大风云扬(中国音乐出海服务体系标准)是一个面向中国音乐内容“全球发行、跨文化推广、数据与流程规范”的开放式行业参考框架。  
+大风云扬(中国音乐出海服务体系标准)为文档体系名称，不代表商标、企业、组织或任何法律主体。
 
 Da Feng Yun Yang is an open, voluntary documentation framework for global distribution and cross-cultural promotion of music originating from China.  
 The term "Da Feng Yun Yang" does not represent a trademark, organization, company, or legal entity.
