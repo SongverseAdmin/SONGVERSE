@@ -1,16 +1,16 @@
-# SONGVERSE: 中国音乐出海服务体系标准
-# SONGVERSE: China Music Global Service System Standard
+# 大风云扬：中国音乐出海服务体系标准
+# Da Feng Yun Yang: China Music Global Service System Standard
 
 **版本 / Version:** Draft v0.1  
 **状态 / Status:** 开源实践版 / Open-source Practice Version  
 **发布源 / Canonical Source:** 本 GitHub 仓库为本标准的权威发布源  
 **许可 / License:** 待定（建议未来添加 LICENSE 文件）
 
-SONGVERSE 是一个面向中国音乐内容“全球发行、跨文化推广、数据与流程规范”的开放式行业参考框架。  
-SONGVERSE 为文档体系名称，不代表商标、企业、组织或任何法律主体。
+大风云扬 是一个面向中国音乐内容“全球发行、跨文化推广、数据与流程规范”的开放式行业参考框架。  
+大风云扬 为文档体系名称，不代表商标、企业、组织或任何法律主体。
 
-SONGVERSE is an open, voluntary documentation framework for global distribution and cross-cultural promotion of music originating from China.  
-The term “SONGVERSE” does not represent a trademark, organization, company, or legal entity.
+Da Feng Yun Yang is an open, voluntary documentation framework for global distribution and cross-cultural promotion of music originating from China.  
+The term "Da Feng Yun Yang" does not represent a trademark, organization, company, or legal entity.
 
 ---
 
@@ -26,14 +26,14 @@ The term “SONGVERSE” does not represent a trademark, organization, company, 
 ## 1. 定位 / Positioning
 
 **中文：**  
-SONGVERSE 为中国音乐人、创作者、团队及从业者提供一套可操作、可复制、可审计的音乐出海流程，包括：  
+大风云扬 为中国音乐人、创作者、团队及从业者提供一套可操作、可复制、可审计的音乐出海流程，包括：  
 - 全球发行  
 - 跨文化推广  
 - 数据规范  
 - 生命周期运营  
 
 **English:**  
-SONGVERSE provides a standardized, repeatable, and auditable workflow for Chinese musicians and teams to distribute and promote music internationally, with Europe and North America as primary reference markets while remaining globally applicable.
+Da Feng Yun Yang provides a standardized, repeatable, and auditable workflow for Chinese musicians and teams to distribute and promote music internationally, with Europe and North America as primary reference markets while remaining globally applicable.
 
 ---
 
@@ -79,9 +79,9 @@ SONGVERSE provides a standardized, repeatable, and auditable workflow for Chines
 
 ## 4. 标准流程 / Standard Process
 
-SONGVERSE 遵循欧美音乐行业常用的“生命周期工作流（Lifecycle Workflow）”，覆盖从准备、发行、推广到持续运营的全流程。
+大风云扬 遵循欧美音乐行业常用的“生命周期工作流（Lifecycle Workflow）”，覆盖从准备、发行、推广到持续运营的全流程。
 
-SONGVERSE follows a lifecycle workflow widely used in the EU/NA music industry.
+Da Feng Yun Yang follows a lifecycle workflow widely used in the EU/NA music industry.
 
 ---
 
@@ -130,7 +130,7 @@ English:
 ## PROMOTE — 国际推广（欧美核心）
 ## Global Promotion (EU/NA Focus)
 
-SONGVERSE 推广体系采用欧美行业标准的 **五轨道模型（5-Track Promotion Model）**：
+大风云扬 推广体系采用欧美行业标准的 **五轨道模型（5-Track Promotion Model）**：
 
 ---
 
@@ -276,15 +276,15 @@ English:
 
 ## 6. 文档结构 / Documentation Structure
 
-SONGVERSE 使用版本化结构管理所有标准文档。
+大风云扬 使用版本化结构管理所有标准文档。
 
 ---
 
-## 7. 关于本体系 / About SONGVERSE
+## 7. 关于本体系 / About 大风云扬
 
-SONGVERSE 是一个开放式实践框架，用于推动中国音乐在全球发行与国际推广中的透明化、结构化与可复制化。
+大风云扬 是一个开放式实践框架，用于推动中国音乐在全球发行与国际推广中的透明化、结构化与可复制化。
 
-SONGVERSE is an open-source framework aiming to improve transparency, structure, and replicability in global music workflows.
+Da Feng Yun Yang is an open-source framework aiming to improve transparency, structure, and replicability in global music workflows.
 
 ---
 
@@ -301,12 +301,12 @@ SONGVERSE is an open-source framework aiming to improve transparency, structure,
 ## 9. 引用方式 / How to Cite
 
 中文：  
-《SONGVERSE 标准 v0.1：中国音乐出海服务体系标准》  
-发布源：https://github.com/SONGVERSE-Global/SONGVERSE
+《大风云扬 标准 v0.1：中国音乐出海服务体系标准》  
+发布源：本 GitHub 仓库  
 
 English:  
-SONGVERSE Standard v0.1: China Music Global Service System Standard  
-Available at: https://github.com/SONGVERSE-Global/SONGVERSE
+Da Feng Yun Yang Standard v0.1: China Music Global Service System Standard  
+Available at: This GitHub Repository  
 
 ---
 
